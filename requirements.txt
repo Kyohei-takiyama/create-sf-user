@@ -1,0 +1,5 @@
+simple-salesforce
+python-dotenv
+pydantic
+pydantic-settings
+httpx
